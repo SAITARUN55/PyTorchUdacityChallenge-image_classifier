@@ -1,2 +1,2 @@
-# PyTorchUdacityChallenge-image_classifier
-Identify flower species from an image
+# Flower classification
+This project uses convolutional neural network to train an image classifier that is able to identify 102 different flower species 
